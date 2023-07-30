@@ -1,2 +1,2 @@
 # innovation-scene
-Events for innovators, startups and entrepreneurs in Portugal
+Events for innovators, startups and entrepreneurs
