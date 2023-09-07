@@ -1,5 +1,7 @@
 <?php
 
+
+
 // Snippet of code to make a JSON decoder function or method.
 // Calls native php function and adds error code check
 
