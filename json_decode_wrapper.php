@@ -5,6 +5,7 @@
 // Snippet of code to make a JSON decoder function or method.
 // Calls native php function and adds error code check
 
+
     public function jsonDecoder($string) {
 
         $string = json_decode($string, true);			// Decode the json. 'true' converts to an associative array, false = object
